@@ -7,3 +7,6 @@ venv/
 
 # OS
 .DS_Store
+
+# direnv
+.envrc
